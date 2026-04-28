@@ -9,8 +9,8 @@
 
 <br/>
 
-<!-- ══ ANIMATED GREETING ══ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Welcome+to+my+universe+🌌;I+build+things+that+think+🤖;AI+%7C+ML+%7C+Full+Stack+Developer+🚀;CGC+Landran+%7C+B.Tech+AI+%26+ML+🎓;AWS+Certified+%7C+Cloud+Ready+☁️" alt="Typing SVG" />
+<!-- ══ ANIMATED ROLES BANNER ══ -->
+<img width="75%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:2d1b69&height=60&text=🤖%20AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Cloud%20Architect%20🚀&fontSize=18&fontColor=c4b5fd&animation=blinking&fontAlignY=65"/>
 
 <br/><br/>
 
@@ -418,7 +418,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=13&pause=1500&color=7C3AED&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+🙏;Let's+build+something+legendary+together+⚡;May+your+commits+always+be+clean+✨" />
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:2d1b69&height=50&text=Thanks%20for%20visiting%20🙏%20Let's%20build%20something%20legendary%20⚡&fontSize=14&fontColor=c4b5fd&fontAlignY=65"/>
 
 <br/>
 
