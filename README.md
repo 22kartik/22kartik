@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=cylender&color=0:000000,30:0d0d0d,60:1a0533,100:2d0a6b&height=300&section=header&text=KARTIK&fontSize=100&fontColor=ffffff&fontAlignY=40&desc=▸%20AI%20Engineer%20▸%20ML%20Developer%20▸%20Flutter%20Dev&descAlignY=62&descSize=20&descColor=b388ff&animation=scaleIn&stroke=7c3aed&strokeWidth=3"/>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI+that+thinks+🤖;Shipping+Flutter+apps+📱;Breaking+models%2C+fixing+bugs+🔥;CGC+Landran+%7C+2022–2026+🎓;Open+to+opportunities+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=B388FF&center=true&vCenter=true&width=620&lines=Building+AI+that+thinks...;Shipping+Flutter+apps+to+production;Breaking+models+%26+fixing+bugs;CGC+Landran+%7C+AI+%26+ML+%7C+2026;Open+to+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -417,12 +417,12 @@ Location :  Jind, Haryana
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=22kartik&show_icons=true&theme=tokyonight&border_radius=16&hide_border=true&count_private=true&title_color=b388ff&icon_color=00e5ff&text_color=e0e0e0&bg_color=0d0d0d"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=22kartik&theme=tokyonight&hide_border=true&border_radius=16&background=0d0d0d&ring=7c3aed&fire=b388ff&currStreakLabel=00e5ff"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=22kartik&show_icons=true&theme=tokyonight&border_radius=16&hide_border=true&count_private=true&title_color=b388ff&icon_color=00e5ff&text_color=e0e0e0&bg_color=0d0d0d&cache_seconds=1800"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=22kartik&theme=tokyonight&hide_border=true&border_radius=16&background=0d0d0d&ring=7c3aed&fire=b388ff&currStreakLabel=00e5ff&sideLabels=e0e0e0&dates=94a3b8&currStreakNum=b388ff&sideNums=e0e0e0"/>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22kartik&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=16&title_color=b388ff&text_color=e0e0e0&bg_color=0d0d0d"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=22kartik&layout=donut&theme=tokyonight&hide_border=true&border_radius=16&title_color=b388ff&text_color=e0e0e0&bg_color=0d0d0d&cache_seconds=1800"/>
 
 <br/><br/>
 
