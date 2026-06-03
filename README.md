@@ -56,34 +56,47 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  📱  Flutter Intern  —  ThinkNext Technologies, Mohali           ║
-║                                        June 2024 – July 2024    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80"/>
 
 </div>
 
-<table border="0" width="100%" cellpadding="12">
+<br/>
+
+<table border="0" width="100%" cellpadding="0">
 <tr>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/Flutter%20%26%20Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white"/><br/><br/>
-<b>Facebook-like UI</b><br/>
-<sub>Built complete social media interface</sub>
+<td width="120" align="center" valign="top">
+<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="80"/><br/>
+<br/>
+<img src="https://img.shields.io/badge/Jun–Jul-2024-7c3aed?style=flat-square&labelColor=0f0f23"/>
 </td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/Dev%20Cycles-40%25%20Faster-00d4aa?style=for-the-badge&labelColor=0f0f23"/><br/><br/>
-<b>Faster Development</b><br/>
-<sub>Optimized prototyping workflow</sub>
-</td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/User%20Engagement-+25%25-a78bfa?style=for-the-badge&labelColor=0f0f23"/><br/><br/>
-<b>Engagement Boost</b><br/>
-<sub>Interactive prototype quality</sub>
+<td valign="top" style="padding-left: 20px;">
+
+### 📱 Flutter Intern — ThinkNext Technologies, Mohali
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%20Design-a78bfa?style=flat-square"/>
+
+<br/><br/>
+
+- 🎯 Built a **Facebook-like UI interface** using Flutter & Dart from scratch
+- ⚡ Achieved **40% faster development cycles** through optimized prototyping workflow
+- 📈 Delivered **25% increase in user engagement** via interactive prototype quality
+- 🎨 Mastered UI/UX design principles through multiple interactive prototypes
+
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+| 🏢 Company | 📍 Location | 🗓️ Duration | 💼 Role |
+|:---:|:---:|:---:|:---:|
+| **ThinkNext Technologies** | Mohali, India | Jun 2024 – Jul 2024 | Flutter Intern |
+
+</div>
 
 <br/>
 
@@ -100,63 +113,86 @@
 <br/>
 
 <div align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="70"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="70"/>
+</div>
 
-<table border="0" cellpadding="0" cellspacing="12" width="100%">
+<br/>
+
+<table border="0" cellpadding="16" width="100%">
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="60"/>
+
 ### 🧠 AutoML Studio
+</div>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![ML](https://img.shields.io/badge/Machine%20Learning-00d4aa?style=flat-square)
 ![AutoML](https://img.shields.io/badge/AutoML-a78bfa?style=flat-square)
+![April 2026](https://img.shields.io/badge/April%202026-7c3aed?style=flat-square)
 
 > AI platform that **automates complete ML workflows** — data preprocessing, model training, evaluation & prediction. Upload datasets, compare models and generate predictions through an intuitive interface.
-
-![April 2026](https://img.shields.io/badge/April%202026-7c3aed?style=flat-square)
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="https://media.giphy.com/media/JtBZm3Getg3dqxK0zP/giphy.gif" width="60"/>
+
 ### 📈 Stock Pulse AI
+</div>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ML](https://img.shields.io/badge/Predictive%20Analytics-ff6b6b?style=flat-square)
+![Analytics](https://img.shields.io/badge/Predictive%20Analytics-ff6b6b?style=flat-square)
 ![Real-time](https://img.shields.io/badge/Real--time%20Data-00d4aa?style=flat-square)
-
-> **Real-time stock market analysis** platform with ML-powered trend prediction. Track performance, analyze market patterns and get intelligent investment insights — all in one interactive interface.
-
 ![April 2026](https://img.shields.io/badge/April%202026-7c3aed?style=flat-square)
+
+> **Real-time stock market analysis** platform with ML-powered trend prediction. Track performance, analyze market patterns and get intelligent investment insights.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60"/>
+
 ### 📄 Resume Analyzer + AI Interview
+</div>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-a78bfa?style=flat-square)
 ![AI](https://img.shields.io/badge/AI%20Interview-ff6b6b?style=flat-square)
-
-> AI platform that **analyzes resumes**, gives personalized improvement suggestions and conducts **mock AI interviews** based on your skills & profile. Get resume feedback + skill-based questions.
-
 ![April 2026](https://img.shields.io/badge/April%202026-7c3aed?style=flat-square)
+
+> AI platform that **analyzes resumes**, gives personalized improvement suggestions and conducts **mock AI interviews** based on your skills & profile.
 
 </td>
 <td width="50%" valign="top">
 
+<div align="center">
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="60"/>
+
 ### 🌐 Dev Portfolio
+</div>
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-> Personal developer portfolio showcasing projects, skills and creative work. Clean design with smooth animations and a **fully responsive layout**.
+> Personal developer portfolio showcasing projects, skills and creative work with **smooth animations & responsive layout**.
 
 <a href="https://github.com/22kartik/Kartik-portfolio"><img src="https://img.shields.io/badge/View%20Project-7c3aed?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
 </table>
-
-</div>
 
 <br/>
 
@@ -245,37 +281,74 @@
 <br/>
 
 <div align="center">
-
-<table border="0" width="90%" cellpadding="0" cellspacing="0">
-<tr>
-<td align="center" style="padding: 20px;">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  🏛️  Chandigarh Group of Colleges, Landran  │  2022–2026   │
-│  B.Tech — Artificial Intelligence & Machine Learning        │
-├─────────────────────────────────────────────────────────────┤
-│  🏫  Indus Public School, Jind              │  2021–2022   │
-│  Intermediate (CBSE)                         │  Score: 72%  │
-├─────────────────────────────────────────────────────────────┤
-│  🏫  Christ Raja Convent School, Jind       │  2019–2020   │
-│  Matriculation (ICSE)                        │  Score: 80.4%│
-└─────────────────────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/>
+</div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Stream-AI%20%26%20ML-7c3aed?style=for-the-badge&labelColor=0f0f23"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Batch-2022--2026-a78bfa?style=for-the-badge&labelColor=0f0f23"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Status-Final%20Year-00d4aa?style=for-the-badge&labelColor=0f0f23"/>
+<table border="0" width="100%" cellpadding="0">
 
-</div>
+<!-- CGC -->
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="80"/><br/><br/>
+<img src="https://img.shields.io/badge/2022-2026-7c3aed?style=flat-square&labelColor=0f0f23"/>
+</td>
+<td valign="top" style="padding-left: 16px; padding-bottom: 24px;">
+
+### 🏛️ Chandigarh Group of Colleges, Landran
+**Bachelor of Technology — Artificial Intelligence & Machine Learning**
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Stream-7c3aed?style=flat-square&labelColor=0f0f23"/>
+<img src="https://img.shields.io/badge/Final%20Year-Status-00d4aa?style=flat-square&labelColor=0f0f23"/>
+<img src="https://img.shields.io/badge/Chandigarh-Location-a78bfa?style=flat-square&labelColor=0f0f23"/>
+
+</td>
+</tr>
+
+<!-- Divider -->
+<tr><td colspan="2"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></td></tr>
+
+<!-- 12th -->
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80"/><br/><br/>
+<img src="https://img.shields.io/badge/2021-2022-a78bfa?style=flat-square&labelColor=0f0f23"/>
+</td>
+<td valign="top" style="padding-left: 16px; padding-bottom: 24px;">
+
+### 🏫 Indus Public School, Jind
+**Intermediate — CBSE Board**
+
+<img src="https://img.shields.io/badge/CBSE-Board-ff6b6b?style=flat-square&labelColor=0f0f23"/>
+<img src="https://img.shields.io/badge/Score-72%25-00d4aa?style=flat-square&labelColor=0f0f23"/>
+<img src="https://img.shields.io/badge/Jind-Haryana-a78bfa?style=flat-square&labelColor=0f0f23"/>
+
+</td>
+</tr>
+
+<!-- Divider -->
+<tr><td colspan="2"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/></td></tr>
+
+<!-- 10th -->
+<tr>
+<td width="120" align="center" valign="top">
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="80"/><br/><br/>
+<img src="https://img.shields.io/badge/2019-2020-00d4aa?style=flat-square&labelColor=0f0f23"/>
+</td>
+<td valign="top" style="padding-left: 16px; padding-bottom: 24px;">
+
+### 🏫 Christ Raja Convent School, Jind
+**Matriculation — ICSE Board**
+
+<img src="https://img.shields.io/badge/ICSE-Board-ff6b6b?style=flat-square&labelColor=0f0f23"/>
+<img src="https://img.shields.io/badge/Score-80.4%25-00d4aa?style=flat-square&labelColor=0f0f23"/>
+<img src="https://img.shields.io/badge/Jind-Haryana-a78bfa?style=flat-square&labelColor=0f0f23"/>
+
+</td>
+</tr>
+
+</table>
 
 <br/>
 
@@ -293,27 +366,31 @@
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="12" width="95%">
+<table border="0" cellpadding="16" width="95%">
 <tr>
 <td align="center" width="25%">
+<img src="https://media.giphy.com/media/9B8wYztAoe1zO/giphy.gif" width="60"/><br/><br/>
 <img src="https://img.shields.io/badge/AWS-Data%20Engineering-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0f0f23"/>
 <br/><br/>
 <sub>☁️ <b>AWS Academy Graduate</b></sub><br/>
 <sub>Data Engineering Track</sub>
 </td>
 <td align="center" width="25%">
+<img src="https://media.giphy.com/media/9B8wYztAoe1zO/giphy.gif" width="60"/><br/><br/>
 <img src="https://img.shields.io/badge/AWS-Cloud%20Computing-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0f0f23"/>
 <br/><br/>
 <sub>☁️ <b>AWS Academy Graduate</b></sub><br/>
 <sub>Cloud Computing Track</sub>
 </td>
 <td align="center" width="25%">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/><br/><br/>
 <img src="https://img.shields.io/badge/Infosys-Python-007CC3?style=for-the-badge&logo=infosys&logoColor=white&labelColor=0f0f23"/>
 <br/><br/>
 <sub>🐍 <b>Infosys Certified</b></sub><br/>
 <sub>Python Programming</sub>
 </td>
 <td align="center" width="25%">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="60"/><br/><br/>
 <img src="https://img.shields.io/badge/Udemy-Intro%20to%20AI-A435F0?style=for-the-badge&logo=udemy&logoColor=white&labelColor=0f0f23"/>
 <br/><br/>
 <sub>🤖 <b>Udemy Certified</b></sub><br/>
@@ -430,6 +507,8 @@
 </a>
 
 <br/><br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
 
 <em><b>I love connecting with developers from around the world — say hi! 🌍</b></em>
 
